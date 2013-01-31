@@ -1,3 +1,9 @@
 body {
-    background-image: url("assets/omfgdogs.gif");
+   background-image: url("assets/omfgdogs.gif");
+}
+
+.omfg {
+    position:absolute;
+    bottom:0;
+    right:0;
 }
